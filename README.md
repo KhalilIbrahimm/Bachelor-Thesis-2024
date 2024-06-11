@@ -21,10 +21,10 @@ Artificial Intelligence (AI) has rapidly evolved, with LLMs and KGs at the foref
 This research is inspired and built upon seminal works, including "Large Language Models and Knowledge Graphs: Opportunities and Challenges" by Pan et al. (2023) and "Unifying Large Language Models and Knowledge Graphs: A Roadmap" by Pan et al. (2023). These studies provide a foundational understanding and roadmap for integrating LLMs with KGs, which my thesis further explores and expands upon.
 
 ## References:
-Large Language Models and Knowledge Graphs: Opportunities and Challenges
-Unifying Large Language Models and Knowledge Graphs: A Roadmap
-Conclusion
+- [Large Language Models and Knowledge Graphs: Opportunities and Challenges](https://arxiv.org/abs/2308.06374)
+- [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
 
+## Conclusion
 This thesis represents a significant step towards understanding and harnessing the synergy between LLMs and KGs. It outlines the theoretical and practical challenges and opportunities, aiming to pave the way for future research and development in AI.
 
 Thank you for visiting this repository. I hope you find the research insightful and inspiring. Please feel free to explore the full thesis and contact me with any questions or feedback.
